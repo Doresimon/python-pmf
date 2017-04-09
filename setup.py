@@ -45,7 +45,7 @@ setup(name='pmf',
       ],
 
       author='Cesar Perez',
-      author_email='cesar@bigtruedata.com',
+      author_email='cesar@wnohang.com',
 
       packages=find_packages(exclude=['test']),
       install_requires=[
