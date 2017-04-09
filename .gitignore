@@ -1,5 +1,7 @@
 *~
 
+*.pyc
+
 .eggs/
 
 pmf.egg-info/
