@@ -24,13 +24,13 @@ def readme():
 setup(name='pmf',
       version='0.0.1',
 
-      description='',
+      description='Implementation of the Probabilistic Matrix Factorization algorithm',
       long_description=readme(),
 
       url='http://github.com/wnohang/python-pmf',
       license='GPLv3',
 
-      keywords='experiments',
+      keywords='pmf',
       classifiers=[
           'Development Status :: 1 - Planning',
           'Intended Audience :: Science/Research',
